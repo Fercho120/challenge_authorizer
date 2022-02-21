@@ -1,0 +1,10 @@
+{
+  "name": "api-rest-creditea",
+  "version": "1.0.0",
+  "description": "Serverless",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
