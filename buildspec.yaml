@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   parameter-store:
-    private_key_github: "/ssh/private_key_github"
+    private_key_github: "github_key"
     github_mail: "github_mail"
     account: "account"
 
